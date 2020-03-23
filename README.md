@@ -353,7 +353,7 @@ Halbert)
 see it in newer systems anymore.
 
 [most](http://www.jedsoft.org/most/) - multiple windows, can scroll left and
-right. (John E Davis) (inactive, last release in 2007)
+right. (John E Davis) (barely active)
 
 
 ### different application of related ideas
